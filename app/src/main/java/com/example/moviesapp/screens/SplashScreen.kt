@@ -56,7 +56,7 @@ fun Splash(alpha: Float) {
                 .size(120.dp)
                 .alpha(alpha = alpha),
             imageVector = Icons.Default.PlayArrow,
-            contentDescription = "",
+            contentDescription = "icon for splash",
             tint = Color.White
         )
     }
